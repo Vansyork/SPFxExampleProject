@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "f48be7b5-927e-430c-b6e1-eb134b019a83",
+  "alias": "SPFxExampleProject",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Other" },
+    "title": { "default": "SPFxExampleProject" },
+    "description": { "default": "This solution demonstrates the power of React within SPFX" },
+    "officeFabricIconFontName": "table",
+    "properties": {
+      "description": "SPFxExampleProject",
+      "darkTheme":false
+    }
+  }]
+}
